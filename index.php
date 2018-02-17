@@ -5,7 +5,7 @@
 <section id="intro">
     <div class="container">
         <h1>Welcome to Ease Exam</h1>
-        <p>A fun and interactive way of learning</p>
+        <p>A fun and interactive way of learning....</p>
     </div>
 </section>
 
