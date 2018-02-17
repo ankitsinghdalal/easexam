@@ -1,0 +1,17 @@
+.nav-item {
+    margin-left: 60px;
+}
+
+.ourOwnButton {
+    background-color: rgb(27, 152, 202);
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+}
+
+.ourOwnButton:hover {
+    text-decoration: none;
+    color: antiquewhite;
+    background-color: rgb(50, 159, 202);
+}
